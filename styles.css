@@ -251,6 +251,10 @@ body {
         margin-top: 2rem;
         padding-inline: 1.5rem;
     }
+    
+    .content {
+        padding-bottom: 5rem;
+    }
 
     .title--larger {
         font-size: 12vw;
